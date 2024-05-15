@@ -1,5 +1,5 @@
-# Rock-Paper-Scissors 
-IN DEVELOPMENT
+# Rock-Paper-Scissors IN DEVELOPMENT
+
 Rock Paper Scissors game using html, css and js
 To play press on the button with the item you choose, rock, paper, or scissors
 The computer will choose something randomly
