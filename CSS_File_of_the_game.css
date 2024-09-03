@@ -16,7 +16,9 @@
     from { opacity: 0; }
     to { opacity: 1; }
 }
-
+html{
+    height: 100vh;
+}
 body{
     text-align: center;
     display: flex;
@@ -31,7 +33,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 100%;
+    width: 95%;
     padding: 30px;
     background-color: #f0f0f0;
 }
